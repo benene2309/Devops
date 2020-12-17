@@ -1,2 +1,2 @@
 # Devops
-Devops progrq; to leqrn
+Devops program to learn
